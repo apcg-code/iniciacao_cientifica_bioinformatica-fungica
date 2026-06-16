@@ -34,7 +34,7 @@ O script contido neste repositório gera um **Gráfico UpSet Empilhado (Stacked 
 
 O gráfico final gerado pelo pipeline correlaciona visualmente as classes de BGCs e o perfil de distribuição genômica:
 
-![Distribuição de Famílias Biossintéticas e Interseções entre Espécies](grafico_final_com_legenda.png)
+![Distribuição de Famílias Biossintéticas e Interseções entre Espécies](UpSetPlot_BGCs_graph.png)
 
 ---
 
